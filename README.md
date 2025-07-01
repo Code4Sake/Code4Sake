@@ -1,57 +1,68 @@
-<h1 align="center">Hi there, I'm Rohit 👋</h1>
+<h1 align="center">Hey there, I'm Rohit 👋</h1>
 
 <p align="center">
-  🧠 Student • 💻 Programmer • 🔬 Tech Enthusiast • 🇳🇵 From Nepal
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=450&lines=High+School+Graduate+%7C+Python+Dev;IoT+%7C+App+Dev+%7C+Hackathons;Learning+Data+Science+%7C+Cybersecurity;Building+Tech+That+Matters+🚀" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 🧠 About Me
 
-- 🎓 High School Graduate (Class of 2025)
-- 🚀 Passionate about Data Science, Cybersecurity, and AI
-- 💡 Currently learning: Python, Flutter, SQL, and Git
-- 🛠️ I build games, IoT projects, smart systems, and web-based tools
-- 🌱 Exploring Machine Learning and Visualization with Python
+<img align="right" height="180" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" />
 
----
-
-### 📌 Current Projects
-
-- 🎮 [Snake Game](https://github.com/Code4Sake/Snake_game) — Classic snake game with score & self-collision
-- 🏠 IoT Smart House — Rainwater harvesting, fire/LPG detection, smart irrigation (Blynk + ESP32)
-- 🌞 Solar Tracker — ESP8266 + LDR + Servo tracking system
-- 📲 SAT Planner App — Flutter offline productivity tool
+- 🔭 Currently building: Python apps, smart systems, and Flutter tools  
+- 🚀 Exploring: **Data Science**, **AI**, **Cybersecurity**, and **IoT**  
+- 🎯 Focused on: Projects that **solve real-world problems**  
+- 👨‍🔬 Hackathon-ready — team player & tech thinker  
+- 🎓 High School Graduate (Nepal, 2025)
 
 ---
 
-### 🧰 Languages & Tools
+## 🚀 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| 🎮 [Snake Game](https://github.com/Code4Sake/Snake_game) | Classic snake game with score and self-collision detection |
+| 🏠 IoT Smart House | Rainwater harvesting, fire/LPG alerts, smart irrigation |
+| ☀️ Solar Tracker | ESP8266 + LDR powered auto sun-tracker |
+| 📱 SAT Planner App | Offline study and productivity app built with Flutter |
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter" />
-  <img src="https://img.shields.io/badge/-C/C++-05122A?style=flat&logo=cplusplus" />
-  <img src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase" />
-  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
-  <img src="https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="32" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="32" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="32" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="32" alt="Arduino" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Code4Sake&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code4Sake&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Code4Sake&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code4Sake&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Code4Sake&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 📫 Connect With Me
+## 📫 Connect With Me
 
-- 💌 Email: `youremail@example.com`
-- 🌐 Website/Portfolio: (coming soon...)
+- 📧 Email: `youremail@example.com`
+- 🌐 Portfolio: _Coming soon..._
+- 🎯 Fun fact: I’m probably building something while you're reading this 😄
 
 ---
 
-_“Learning by building. Building by failing. Failing forward.”_
+> _"Stay curious. Keep building. Break stuff. Fix better."_ 💡
+
