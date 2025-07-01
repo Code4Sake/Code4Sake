@@ -54,7 +54,7 @@
 
 ## 📫 Connect With Me
 
-- 📧 Email: `your.email@example.com`
+- 📧 Email: `rohitpoudel020@gmail.com`
 - 🌐 Portfolio: Coming soon...
 
 ---
