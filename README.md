@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rohit 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=460&lines=Python+Developer;IoT+%7C+Cybersecurity+Learner;Loves+Code+%26+Real-world+Projects;Stay+Curious+%7C+Keep+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=460&lines=Python+Developer;IoT+Enthusiast;Loves+Code+%26+Real-world+Projects;Stay+Curious+%7C+Keep+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 High School Graduate (Nepal, 2025)
-- 🧠 Learning **Data Science**, **AI**, and **Cybersecurity**
+- 🧠 Learning **Data Science** and **AI**
 - 💻 Love building: Python apps • Smart Systems • Games
 - 🧩 Projects that solve real problems > random theory
 
