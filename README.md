@@ -1,44 +1,40 @@
-<h1 align="center">Hey there, I'm Rohit 👋</h1>
+<h1 align="center">Hi, I'm Rohit 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=450&lines=High+School+Graduate+%7C+Python+Dev;IoT+%7C+App+Dev+%7C+Hackathons;Learning+Data+Science+%7C+Cybersecurity;Building+Tech+That+Matters+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=460&lines=Python+Developer;IoT+%7C+Security+Enthusiast;Learning+Data+Science+%7C+AI;Loves+Building+Smart+Projects" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧠 About Me
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
 
-<img align="right" height="180" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif" />
+## 👨‍💻 About Me
 
-- 🔭 Currently building: Python apps, smart systems, and Flutter tools  
-- 🚀 Exploring: **Data Science**, **AI**, **Cybersecurity**, and **IoT**  
-- 🎯 Focused on: Projects that **solve real-world problems**  
-- 👨‍🔬 Hackathon-ready — team player & tech thinker  
 - 🎓 High School Graduate (Nepal, 2025)
+- 🧠 Exploring **Data Science**, **Cybersecurity**, and **AI**
+- 💡 Focused on solving **real-life problems** through code
+- 💻 Love building: Games • IoT Projects • Smart Tools
+- 🐍 Python is my primary language
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-| Project | Description |
-|--------|-------------|
-| 🎮 [Snake Game](https://github.com/Code4Sake/Snake_game) | Classic snake game with score and self-collision detection |
-| 🏠 IoT Smart House | Rainwater harvesting, fire/LPG alerts, smart irrigation |
-| ☀️ Solar Tracker | ESP8266 + LDR powered auto sun-tracker |
-| 📱 SAT Planner App | Offline study and productivity app built with Flutter |
+- 🎮 [Snake Game](https://github.com/Code4Sake/Snake_game) — Classic snake game with score + self-collision detection  
+- 🏠 Smart House IoT — Includes fire alert, water level, solar tracker, cloth protector  
+- ☀️ Solar Tracking System — LDR + ESP8266 controlled real-time solar movement  
+- 🔐 Laser Security & Gas Detection — Built with Blynk and sensors
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tools & Tech Stack
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="32" alt="Flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="32" alt="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="32" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="32" alt="Arduino" />
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-FF4500?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
@@ -46,8 +42,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Code4Sake&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code4Sake&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Code4Sake&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code4Sake&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
@@ -56,13 +52,11 @@
 
 ---
 
-## 📫 Connect With Me
+## 📫 Reach Me
 
-- 📧 Email: `youremail@example.com`
-- 🌐 Portfolio: _Coming soon..._
-- 🎯 Fun fact: I’m probably building something while you're reading this 😄
+- 📧 Email: `rohitpoudel020@gmail.com`
+- 🌐 Website: _Coming soon..._
 
 ---
 
-> _"Stay curious. Keep building. Break stuff. Fix better."_ 💡
-
+> _“Stay curious. Keep building. Fail fast. Fix better.”_
