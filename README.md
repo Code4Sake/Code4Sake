@@ -4,8 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=460&lines=Python+Developer;IoT+%7C+Cybersecurity+Learner;Loves+Code+%26+Real-world+Projects;Stay+Curious+%7C+Keep+Building" alt="Typing SVG" />
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Matrix code rain" width="300" />
+  <img src="https://cdn.jsdelivr.net/gh/kognise/waves@master/waves.svg" alt="Waves animation" width="460" />
 </p>
+
 
 <p align="center">
   <img src="https://github.com/Code4Sake/Code4Sake/assets/1234567890/codingpulse.svg" alt="cool code pulse" height="70" />
