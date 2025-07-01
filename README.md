@@ -4,9 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=460&lines=Python+Developer;IoT+Enthusiast;Loves+Code+%26+Real-world+Projects;Stay+Curious+%7C+Keep+Building" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/Code4Sake/Code4Sake/assets/1234567890/codingpulse.svg" alt="cool code pulse" height="70" />
-</p>
 
 ---
 
