@@ -14,7 +14,7 @@
 - 🎓 High School Graduate (Nepal, 2025)
 - 🧠 Learning **Data Science** and **AI**
 - 💻 Love building: Python apps • Smart Systems • Games
-- 🧩 Projects that solve real problems > random theory
+- 🧩 Projects that solve real problems
 
 ---
 
